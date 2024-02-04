@@ -1,1 +1,0 @@
-ASCII: https://manytools.org/
